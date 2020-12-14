@@ -59,4 +59,9 @@ REPORT
 <br/>
 Output:  
 Your coordinates are: 3, 3  
-and you are facing: NORTH
+and you are facing: NORTH  
+
+# Testing
+Test the simulator by running the command `npm run test`  
+<br/>
+Tests are included for various commands and robot functions.
